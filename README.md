@@ -1,21 +1,20 @@
 # 🌐 Personal Portfolio Website
 
-This is my personal portfolio website created to showcase my skills, projects, and hackathon participation as a Computer Science / Engineering student.
+This repository contains my personal portfolio website created to showcase my skills, learning progress, and hackathon participation as a first-year Computer Science / Engineering student.
 
-The website is fully responsive and built using basic web technologies.
+The website is responsive and built using basic web technologies.
 
 ---
 
 ## 🔹 Features
 
-- Clean and modern UI
-- Responsive design (works on mobile & desktop)
+- Clean and simple user interface
+- Responsive design (mobile & desktop friendly)
 - Sections included:
   - Home
   - About Me
   - Skills
   - Hackathon Participation
-  - Projects
   - Contact
 
 ---
@@ -28,31 +27,21 @@ The website is fully responsive and built using basic web technologies.
 
 ---
 
-## 🚀 Hackathon Experience
+## 🚀 Hackathon Participation
 
-I have participated in college-level hackathons where I:
-- Worked in a team environment
-- Contributed to UI design using HTML & CSS
-- Helped in idea planning and presentations
-- Learned time management and collaboration under pressure
-
----
-
-## 📂 Projects Included
-
-### 1️⃣ Portfolio Website
-- A personal portfolio built using HTML, CSS, and JavaScript.
-- Displays my profile, skills, projects, and contact details.
-
-### 2️⃣ Sports Recommendation Web App (Beginner Project)
-- Suggests suitable sports based on user age and gender.
-- Built using basic frontend technologies.
-- Focused on logic building and UI design.
+- Participated in college-level hackathons.
+- Worked in a team environment under time constraints.
+- Contributed to UI design using HTML and CSS.
+- Assisted in idea planning and presentations.
+- Gained experience in collaboration and problem-solving.
 
 ---
 
-## 📸 Screenshots
+## 📂 Projects
 
-(Add screenshots of your website here)
+Currently, this repository contains only my personal portfolio website.
 
-Example:
+More projects will be added as I continue learning web development and programming.
+
+---
+
